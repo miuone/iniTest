@@ -1,0 +1,2 @@
+# iniTest
+Initial configuration
